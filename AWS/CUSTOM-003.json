@@ -1,0 +1,11 @@
+{
+    "targetRulesMapping": [
+      {
+        "targetRuleId": "Custom-Rule-40",
+        "targetRuleType": "CLOUD_CONFIGURATION_RULE"
+      }
+    ],
+    "responseActionName": "Remove Any IP to Any Port Ingress",
+    "responseActionDescription": "Cycle through ingress rules within a Security Group and remove any that allow Any IP Address to communicate to Any Port."
+  }
+  

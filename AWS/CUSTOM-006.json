@@ -1,0 +1,11 @@
+{
+    "targetRulesMapping": [
+      {
+        "targetRuleId": "Custom-Rule-43",
+        "targetRuleType": "CLOUD_CONFIGURATION_RULE"
+      }
+    ],
+    "responseActionName": "Remove AWS AMI Public Access",
+    "responseActionDescription": "Remove public access from exposed AWS AMI images."
+  }
+  

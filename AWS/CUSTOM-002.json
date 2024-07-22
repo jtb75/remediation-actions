@@ -1,0 +1,11 @@
+{
+    "targetRulesMapping": [
+      {
+        "targetRuleId": "Custom-Rule-41",
+        "targetRuleType": "CLOUD_CONFIGURATION_RULE"
+      }
+    ],
+    "responseActionName": "Power off EC2",
+    "responseActionDescription": "Shutdown EC2 Instances which are out of compliance."
+  }
+  

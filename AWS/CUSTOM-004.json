@@ -1,0 +1,11 @@
+{
+    "targetRulesMapping": [
+      {
+        "targetRuleId": "Custom-Rule-42",
+        "targetRuleType": "CLOUD_CONFIGURATION_RULE"
+      }
+    ],
+    "responseActionName": "Enable Block Public Access on S3 Buckets",
+    "responseActionDescription": "Enable Block Public Access on S3 buckets where it is disabled"
+  }
+  

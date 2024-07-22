@@ -1,0 +1,11 @@
+{
+    "targetRulesMapping": [
+      {
+        "targetRuleId": "afd9f751-3f23-4065-bf88-8d8765e1cc1b",
+        "targetRuleType": "CONTROL"
+      }
+    ],
+    "responseActionName": "Remove Resource-based policy statements from Publicly Exposed Lambda",
+    "responseActionDescription": "Removed all resource access policy statements to ensure function is not publicly exposed."
+  }
+  
