@@ -1,0 +1,11 @@
+{
+    "targetRulesMapping": [
+      {
+        "targetRuleId": "Custom-Rule-44",
+        "targetRuleType": "CLOUD_CONFIGURATION_RULE"
+      }
+    ],
+    "responseActionName": "Remove Unauthenticated Public Access to Lambda Functions",
+    "responseActionDescription": "This remediation identifies publicly exposed functions through a URL with no authentication.  Once identified, the remediation removes the URL access."
+  }
+  
