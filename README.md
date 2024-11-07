@@ -1,2 +1,2 @@
-# wiz-remediation-actions
-Wiz Remediation Actions
+# remediation-actions
+Remediation Actions
